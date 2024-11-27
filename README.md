@@ -1,1 +1,1 @@
-Exercicios de Pythpn criados e feitos pelo curso de Desenvolvimento de Sistemas (DS) pela Etec Irmã Agostina.
+Exercicios de Python criados e feitos pelo curso de Desenvolvimento de Sistemas (DS) pela Etec Irmã Agostina.
